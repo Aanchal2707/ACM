@@ -13,18 +13,18 @@ To run the Process Scheduler on your local machine, follow these steps:
 ### Steps
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your/repository.git
-   cd process-scheduler
+   git clone https://github.com/Aanchal2707/ACM.git
+   cd ACM
    ```
 
 2. **Compile the program:**
    ```bash
-   g++ -o scheduler scheduler.cpp
+   g++ -o cpu_scheduler cpu_scheduler.cpp
    ```
 
 3. **Run the program:**
    ```bash
-   ./scheduler
+   ./cpu_scheduler
    ```
 
 ## Usage
